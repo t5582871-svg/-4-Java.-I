@@ -7,13 +7,14 @@ public class Main {
         int b = 10;
         double c = 1.5;
 
-        //Арифметические операции с примитавми int
+        //Арифметические операции с примитивами int
         System.out.println("Арифметические операции");
         System.out.println("a + b = " + (a + b));
         System.out.println("a - b = " + (a - b));
         System.out.println("a * b = " + (a * b));
         System.out.println("a / b = " + (a / b));
 
+        //Арифметических операций над int и double в одном выражении
         System.out.println("Арифметических операций над int и double в одном выражении");
         System.out.println("a + c = " + (a + c));
         System.out.println("a - c = " + (a - c));
